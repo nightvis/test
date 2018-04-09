@@ -1,0 +1,8 @@
+{
+    "name": "nightvis/test",
+    "autoload": {
+        "psr-0" : {
+            "Nightvis\\Test" : "src"
+        }
+    }
+}
